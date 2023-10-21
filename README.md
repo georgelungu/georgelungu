@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
+![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <h1 align="center">Hi 👋, I'm George!</h1>
 <h3 align="center">Junior MERN and Front-End Developer based in Europe.</h3>
 
