@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT and TypeScript**
 
-- 👨‍💻 All of my projects are available at [[coming soon...]]([coming soon...])
+- 👨‍💻 All of my projects are available [here](https://personal-portofolio.onrender.com/)
 
 - 💬 Ask me about **REACT, JavaScript, Bootstrap, CSS, Express, NODE.js, MongoDB**
 
